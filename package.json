@@ -31,7 +31,7 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt": "~0.3.17"
+    "grunt": "~1.6.1"
   },
   "keywords": []
 }
